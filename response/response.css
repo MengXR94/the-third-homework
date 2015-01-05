@@ -1,0 +1,171 @@
+@media only screen and (min-width: 768px) and (max-width: 1100px){
+ 	.wrapper{
+ 		width: 712px;
+ 		}
+	.topnav{
+		left: 0%;
+		}
+		/*row3*/
+	 .row3 ul{
+		width: 680px;
+		height: 700px;
+		}
+	 .row3 ul li a{
+	 	width:200px;
+	 	}
+	.row1 ol{
+		left: 300px;
+		}
+	.date {
+		left: 70px;
+		}
+	.li1{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 0px, 0px);
+		}
+	.li1:hover{
+		transform: translate3d(-6px, -6px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+	.li2{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(240px, 0px, 0px);
+		}
+	.li2:hover{
+		transform: translate3d(234px, -6px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+	.li3{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(480px, 0px, 0px);
+		}
+	.li3:hover{
+		transform: translate3d(474px, -6px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+	.li4{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 355px, 0px);
+		}
+	.li4:hover{
+		transform: translate3d(-6px, 349px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+	.li5{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(240px, 355px, 0px);
+		}
+	.li5:hover{
+		transform: translate3d(234px, 349px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+	.li6{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(480px, 355px, 0px);
+		}
+	.li6:hover{
+		transform: translate3d(474px, 349px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+		}
+}
+@media only screen and (min-width: 475px) and (max-width: 768px){
+	.wrapper{
+		width: 475px;
+	}
+	.topnav{
+		display: none;
+	}
+	.menu{
+		display: block;
+	}
+	/*row3*/
+	.row3 ul{
+		width: 475px;
+		height: 3600px;
+	}
+	.row3 ul li{
+		margin-left: 10%;
+	}
+	.row3 ul li a{
+	 	width:400px;
+	 }
+	.row1 ol{
+		left: 220px;
+	}
+	.date {
+		left: 170px;
+	}
+	.li1{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 0px, 0px);
+	}
+	.li1:hover{
+		transform: translate3d(-6px, -6px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	.li2{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 600px, 0px);
+	}
+	.li2:hover{
+		transform: translate3d(-6px, 594px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	.li3{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 1200px, 0px);
+	}
+	.li3:hover{
+		transform: translate3d(-6px, 1194px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	.li4{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 1800px, 0px);
+	}
+	.li4:hover{
+		transform: translate3d(-6px, 1794px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	.li5{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 2400px, 0px);
+	}
+	.li5:hover{
+		transform: translate3d(-6px, 2396px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	.li6{
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		transform: translate3d(0px, 3000px, 0px);
+	}
+	.li6:hover{
+		transform: translate3d(-6px, 2994px, 0px);
+		box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.3);
+	}
+	
+}
